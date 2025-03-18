@@ -12,6 +12,7 @@ public class AddEmp {
 	{
 		this.driver = driver;
 	}
+//test22
 	
 	@FindBy(xpath = "//*[@id='menu_pim_viewPimModule']/b")
 	WebElement ObjPim;
